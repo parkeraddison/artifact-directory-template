@@ -1,5 +1,7 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+DANE: Data Automation and Network Emulation Tool
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+In the field of network traffic research, datasets are often manually generated with in-house methods using fast internet connections. This creates a data representation issue, as we can’t expect all internet users to have great network conditions. How can we make sure network research is taking diverse network conditions into account? Is there a better way to generate traffic datasets with representative network conditions?
+
+DANE is a hackable and automated dataset generation tool which collects traffic data in a variety of configurable network environments. In our talk we introduce the tool, the purpose it serves, and how it works. Finally, we dive into an example of real-world analysis using data collected by our tool.

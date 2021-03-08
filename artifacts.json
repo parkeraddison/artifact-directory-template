@@ -1,7 +1,7 @@
 {
-    "this-repository": "https://github.com/DSC-Capstone/artifact-directory-template.git",
-    "project-repository": "https://github.com/DSC-Capstone/project-templates.git",
-    "dockerhub-repository": "amfraenkel/fair-policing-project:latest",
-    "project-website-url": "https://afraenkel.github.io/capstone-malware-domain/",
-    "project-website-code": "https://github.com/afraenkel/capstone-malware-domain.git"
+    "this-repository": "https://github.com/parkeraddison/artifact-directory-template.git",
+    "project-repository": "https://github.com/dane-tool/dane.git",
+    "dockerhub-repository": "https://hub.docker.com/repository/docker/parkeraddison/dane-compose",
+    "project-website-url": "https://dane-tool.github.io/dane/",
+    "project-website-code": "https://github.com/dane-tool/dane.git"
 }
